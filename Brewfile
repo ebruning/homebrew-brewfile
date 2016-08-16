@@ -13,7 +13,7 @@ brew 'ffmpeg'
 brew 'freetype'
 brew 'gdbm'
 brew 'git'
-brew 'git-lfs'`
+brew 'git-lfs'
 brew 'hub'
 brew 'imagemagick'
 brew 'jpeg'
