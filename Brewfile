@@ -1,3 +1,4 @@
+brew 'mas'
 brew 'python' 
 brew 'ant'
 brew 'autoconf'
@@ -74,3 +75,12 @@ cask 'textmate'
 cask 'transmission'
 cask 'transmit'
 cask 'vlc'
+
+mas 'Keynote', id: 409183694
+mas 'The Unarchiver', id: 425424353
+mas 'Caffeine', id: 411246225
+mas 'Pixelmator', id: 407963104
+mas 'CodeRunner', id: 433335799
+mas 'Numbers', id: 409203825
+mas 'Pages', id: 409201541
+mas 'LiveReload', id: 482898991
