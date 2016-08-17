@@ -1,4 +1,3 @@
-brew 'mas'
 brew 'python' 
 brew 'ant'
 brew 'autoconf'
