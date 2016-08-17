@@ -1,4 +1,5 @@
 brew 'mas'
+mas 'Xcode', id: 497799835
 brew 'python' 
 brew 'ant'
 brew 'autoconf'
