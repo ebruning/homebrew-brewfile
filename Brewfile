@@ -50,6 +50,7 @@ brew 'zsh'
 brew 'zsh-completions'
 
 cask '1password'
+cask 'alfred'
 cask 'android-studio'
 cask 'appcleaner'
 cask 'bettertouchtool'
