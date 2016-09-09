@@ -51,6 +51,7 @@ brew 'zsh-completions'
 
 cask '1password'
 cask 'alfred'
+cask 'alternote'
 cask 'java'
 cask 'android-studio'
 cask 'appcleaner'
