@@ -23,7 +23,6 @@ brew 'lame'
 brew 'libtool'
 brew 'libvo-aacenc'
 brew 'libxml2'
-brew 'macvim', args: ['--env-std',  '--override-system-vim']
 brew 'mono'
 brew 'ninja'
 brew 'node'
@@ -84,3 +83,5 @@ cask 'transmission'
 cask 'transmit'
 cask 'vlc'
 cask 'whatsapp'
+
+brew 'macvim', args: ['--env-std',  '--override-system-vim']
