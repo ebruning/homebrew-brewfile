@@ -84,4 +84,4 @@ cask 'transmit'
 cask 'vlc'
 cask 'whatsapp'
 
-brew 'macvim', args: ['--env-std',  '--override-system-vim']
+brew 'macvim', args: ['--env-std',  '--with-override-system-vim']
