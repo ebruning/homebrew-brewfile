@@ -84,5 +84,6 @@ cask 'transmission'
 cask 'transmit'
 cask 'vlc'
 cask 'whatsapp'
+cask 'google-cloud-sdk'
 
 brew 'macvim', args: ['--env-std',  '--with-override-system-vim']
